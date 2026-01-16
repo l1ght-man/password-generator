@@ -20,4 +20,8 @@ It can generate strong passwords for your accounts and save them to a local file
 git https://github.com/l1ght-man/password-generator.git
 cd password-generator
 
+```
+
+3. run the manger 
+```bash
 python manager.py

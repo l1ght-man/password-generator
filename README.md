@@ -16,4 +16,8 @@ It can generate strong passwords for your accounts and save them to a local file
 1. Make sure you have Python 3 installed.
 2. Clone this repository:
 
+```bash
+git https://github.com/l1ght-man/password-generator.git
+cd password-generator
 
+python manager.py

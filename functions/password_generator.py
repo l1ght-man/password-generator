@@ -38,4 +38,4 @@ def password_generator(output_file):
             password += random.choice(char_randoms)
         print("Generated strong password  ",account,":",password)
         with open(output_file, "a", encoding="utf-8") as f:
-            f.write(f"{account}:{password}\n")
+            f.write(f"{account} : {password}\n")
